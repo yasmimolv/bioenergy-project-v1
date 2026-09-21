@@ -144,7 +144,7 @@ Lançado em 2024, o projeto também visa conscientizar empresas e usuários fina
         <a href="#">
           <img src="https://github.com/user-attachments/assets/31f2fd34-af6a-4db2-b573-79998600fa67" width="150px;" height="145px;" alt="Yasmin Vitória"/>
           </a>
-          <h3>Yasmin<br> Vitória</h3>
+          <h3>Yasmim<br> Vitória</h3>
           <h4>Analista de Dados</h4>
           <a href="#" target="_blank" rel="noreferrer"><img src="https://images.icon-icons.com/3685/PNG/512/github_logo_icon_229278.png" width="26" height="36" alt="Github" 
           style="margin-right:8px;" /></a>
@@ -187,7 +187,7 @@ BioEnergy/
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/ManoRicck/14-BioEnergy.git
+git clone https://github.com/yasmimolv/bioenergy-project-v1.git
 ```
 
 2. Instale o node_modules:
@@ -205,9 +205,9 @@ npm run dev
 
 Para dúvidas, sugestões ou parcerias:
 
-- 👤 Autor: ManoRicck
-- 📧 Email: henriqueexpedito964@gmail.com
-- 🧠 GitHub: github.com/ManoRicck
+- 👤 Autor: YasmimOlv
+- 📧 Email: yasmimpereirajj@gmail.com
+- 🧠 GitHub: github.com/yasmimolv
 
 ## 📄 Licença
 
